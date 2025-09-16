@@ -9,8 +9,8 @@ This To-Do List App allows users to:
 - Enjoy a visually appealing UI with a background image
 
 ---
-<img width="1920" height="1080" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/e913af60-842d-424d-9065-dc026ab83d4d" />
-<img width="1920" height="1080" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/d22b31bc-7ca6-4382-8f4d-5bd953f674ad" />
+<img width="800" height="650" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/e913af60-842d-424d-9065-dc026ab83d4d" />
+<img width="800" height="650" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/d22b31bc-7ca6-4382-8f4d-5bd953f674ad" />
 
 ## ✨ Features
 
