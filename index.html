@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,20 +9,21 @@
 </head>
 <body>
     <div class="container">
-     <div class="todo">
-        <h2>To-Do List <img src="images2.jpeg" ></h2>
-        <div class="row">
-            <input type="text" id="input" placeholder=" Add your text">
-            <button onclick="addtask()">ADD</button>
+        <div class="todo">
+            <h2>📋 To-Do List</h2>
+            <div class="row">
+                <input type="text" id="input" placeholder=" Add your task">
+                <input type="number" id="hour" min="1" max="12" placeholder="hh">
+                <input type="number" id="minute" min="0" max="59" placeholder="mm">
+                <select id="ampm">
+                    <option>AM</option>
+                    <option>PM</option>
+                </select>
+                <button onclick="addTask()">ADD</button>
+            </div>
+            <ul id="list-container"></ul>
         </div>
-        <ul id="list-container" class="checked">
-         
-            <!--<li class="checked">Task 1</li>
-            <li class="checked1">Task 2</li>
-            <li class="checked2">Task 3</li>-->
-        </ul>
-        <script src="script.js"></script>
-     </div>
     </div>
+    <script src="script.js"></script>
 </body>
 </html>
